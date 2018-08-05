@@ -1,0 +1,74 @@
+@import url(base.css);
+.box {
+    width: 7.5rem;
+    height: 13.34rem;
+    overflow: hidden;
+    background: #eeeeee;
+}
+.box img{
+    width: 3.38rem;
+    height: 3.42rem;
+    display: block;
+    margin: 1.61rem auto 0;
+}
+.a1{
+    display: block;
+    color: #56d36f;
+    font-size: 0.26rem;
+    text-align: center;
+margin-top: 0.15rem;
+}
+.a2{
+    display: block;
+    color: #ababab;
+    font-size: 0.20rem;
+    text-align: center;
+    margin-top: 0.26rem;
+}
+.inputb{
+    width: 5.3rem;
+    height: 0.71rem;
+    /*background:red;*/
+    margin: 2.13rem auto 0;
+    /*border-radius: 0.35rem;*/
+    border-bottom: 0.01rem solid #d6d6d6;
+    overflow: hidden;
+}
+.smalld{
+    width: 0.18rem;
+    height: 0.08rem;
+    background: #ffcb2e;
+    border-radius: 0.04rem;
+    margin-top: 0.3rem;
+    float: left;
+}
+.del{
+    /*display: block;*/
+    width: 5.3rem;
+    height: 0.71rem;
+    font-size: 0.2rem;
+    text-align: center;
+    line-height: 0.71rem;
+}
+.inputb input{
+    float: left;
+    outline: none;
+    border: none;
+    height:0.71rem;
+    background: #eeeeee;
+    line-height: 0.71rem;
+
+}
+.boxbutton{
+    width: 3.46rem;
+    height: 0.7rem;
+    /*background: red;*/
+    border-radius: 0.35rem;
+    margin: 1.51rem auto 0;
+    font-size: 0.22rem;
+    text-align: center;
+    line-height: 0.7rem;
+    color: white;
+    background-image:-webkit-linear-gradient(left,#3e9dff,#41c3ff);
+    box-shadow: 0rem 0.05rem 0.05rem 0.05rem rgba(153,197,238,0.6);
+}

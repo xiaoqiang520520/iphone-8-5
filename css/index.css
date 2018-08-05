@@ -1,0 +1,53 @@
+/*
+* @Author: cyw
+* @Date:   2018-08-03 16:34:57
+* @Last Modified by:   cyw
+* @Last Modified time: 2018-08-03 18:07:32
+*/
+@import url(base.css);
+.box{
+    width: 7.5rem;
+    height:13.34rem;
+    background: yellow;
+    overflow: hidden;
+}
+.box img{
+    width: 4.69rem;
+    height: 3.78rem;
+    display: block;
+    margin: 2.06rem auto 1.24rem;
+}
+.box h3{
+
+    /*width: 1.87rem;*/
+    /*height: 0.28rem;*/
+    /*margin-bottom: 5rem;*/
+    font-size:0.26rem;
+    color: #6c6c6c;
+    text-align: center;
+}
+.button{
+    width: 3.73rem;
+    height: 0.7rem;
+    background: red;
+    font-size: 0.22rem;
+    border-radius: 0.35rem;
+    margin: 4.24rem auto 0.25rem;
+    text-align: center;
+    color: white;
+    line-height: 0.7rem;
+
+}
+.buttonb{
+    width: 3.73rem;
+    height: 0.7rem;
+    background: red;
+    font-size: 0.22rem;
+    text-align: center;
+    color: white;
+line-height: 0.7rem;
+
+
+    border-radius: 0.35rem;
+    margin: 0 auto;
+}
