@@ -1,0 +1,56 @@
+@import url(base.css);
+.box {
+    width: 7.5rem;
+    height: 13.34rem;
+    overflow: hidden;
+    background: #eeeeee;
+}
+.imgback{
+    width: 4.8rem;
+    height: 3.1rem;
+    margin-top:5.23rem;
+    margin-left: 1.28rem;
+    position: relative;
+
+}
+.imgback img{
+    width: 4.80rem;
+    height: 3.10rem;
+}
+.imgback p{
+    font-size: 0.24rem;
+    line-height: 0.24rem;
+    color: #a1a1a1;
+    position: absolute;
+    top: 1.44rem;
+    left: 1.56rem;
+    /*text-align: center;*/
+}
+.imgback .affirm{
+    width: 1.44rem;
+    height: 0.7rem;
+    /*background:#3bdf4d;*/
+    font-size: 0.22rem;
+    border-radius: 0.35rem;
+    text-align: center;
+    line-height: 0.7rem;
+    color:white ;
+    position: absolute;
+    left:1.69rem;
+    bottom: 0.6rem;
+    background-image: -webkit-linear-gradient(left,#33d07d,#3de43d);
+    box-shadow:0 0.05rem 0.05rem 0.05rem rgba(142,217,173,0.6);
+}
+.imgback .exit{
+    width: 1.44rem;
+    height: 0.7rem;
+    background: #f0f0f0;
+    font-size: 0.22rem;
+    border-radius: 0.35rem;
+    text-align: center;
+    line-height: 0.7rem;
+    color: #35d470;
+    position: absolute;
+    right:0.79rem;
+    bottom: 0.6rem;
+}

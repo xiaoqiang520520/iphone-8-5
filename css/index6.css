@@ -1,0 +1,25 @@
+@import url(base.css);
+.box{
+    width: 7.5rem;
+    height: 13.34rem;
+    background: #fbfbfb;
+    overflow: hidden;
+
+}
+.mid{
+    width: 3.95rem;
+    height: 5.13rem;
+    background: #f6f6f6;
+    border: 0.06rem solid #efefef;
+    margin-top: 2.54rem;
+    margin-left: 1.8rem;
+
+}
+.box span{
+    display: block;
+    font-size: 0.27rem;
+    color: #a0a0a0;
+    margin-top: 3.32rem;
+    /*margin: 3.32rem auto 0;*/
+    text-align: center;
+}
