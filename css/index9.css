@@ -1,0 +1,47 @@
+@import url(base.css);
+.box{
+    width: 7.5rem;
+    height:13.34rem;
+    position: relative;
+
+}
+img{
+    width:7.5rem;
+    height: 13.34rem;
+}
+.s1{
+    display: block;
+    font-size: 0.37rem;
+    color: white;
+    /*margin-top: 2.51rem;*/
+    position: absolute;
+    left: 3.13rem;
+    top: 2.54rem;
+
+}
+.s2{
+    display: block;
+    font-size: 0.26rem;
+    position: absolute;
+    left: 2.27rem;
+    top: 3.08rem;
+    font-size: 0.26px;
+    color: white;
+}
+.boxbutton{
+    width: 3.46rem;
+    height: 0.7rem;
+    /*background: red;*/
+    border-radius: 0.35rem;
+    margin: 3.26rem auto 0;
+    font-size: 0.22rem;
+    text-align: center;
+    line-height: 0.7rem;
+    color: white;
+    background-image:-webkit-linear-gradient(left,#ffac32,#ffce37);
+    box-shadow: 0rem 0.05rem 0.05rem 0.05rem rgba(238,211,140,0.6);
+    position: absolute;
+    left: 1.93rem;
+    bottom: 1.46rem;
+
+}
